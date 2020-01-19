@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="skj_proxy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/skj_proxy_jar</output-path>
+    <root id="archive" name="skj_proxy.jar">
+      <element id="module-output" name="skj_proxy" />
+    </root>
+  </artifact>
+</component>
